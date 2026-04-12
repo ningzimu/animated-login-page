@@ -1,10 +1,14 @@
 # animated-login-page
 
-[![English README](https://img.shields.io/badge/README-English-blue)](./README.md)
+[![English README](https://img.shields.io/badge/README-English-blue)](./README.md) [![在线演示](https://img.shields.io/badge/demo-live-22c55e)](https://ningzimu.github.io/animated-login-page/)
 
 一个基于 React 和 Vite 的可复用 animated login page 项目。
 
 这个项目的目标不是只做一个一次性的登录页 demo，而是把参考登录页的视觉风格和交互方式整理成一个更容易运行、修改、迁移、复用的独立项目。
+
+## 在线演示
+
+- https://ningzimu.github.io/animated-login-page/
 
 ## 特性
 

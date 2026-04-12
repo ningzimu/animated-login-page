@@ -1,10 +1,14 @@
 # animated-login-page
 
-[![中文文档](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](./README.zh-CN.md)
+[![中文文档](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](./README.zh-CN.md) [![Live Demo](https://img.shields.io/badge/demo-live-22c55e)](https://ningzimu.github.io/animated-login-page/)
 
 A reusable animated login page built with React and Vite.
 
 This project is a standalone implementation of an animated multi-character login experience, designed to be easy to run, customize, and adapt for other products.
+
+## Live Demo
+
+- https://ningzimu.github.io/animated-login-page/
 
 ## Features
 
