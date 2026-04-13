@@ -190,34 +190,33 @@ body {
   gap: 34px;
   left: 84px;
   top: 92px;
+  align-items: center;
 }
 
 .shape-yellow__eyes {
   gap: 22px;
   left: 50px;
   top: 42px;
+  align-items: center;
 }
 
 .eye {
   position: relative;
   width: 18px;
-  min-width: 18px;
   height: 18px;
-  min-height: 18px;
   overflow: hidden;
-  border-radius: 50%;
+  border-radius: 999px;
   background: #fff;
   transition: height 0.18s ease, width 0.18s ease, border-radius 0.18s ease;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  display: block;
+  flex: 0 0 18px;
+  aspect-ratio: 1 / 1;
 }
 
 .eye-dark {
   width: 16px;
-  min-width: 16px;
   height: 16px;
-  min-height: 16px;
+  flex-basis: 16px;
 }
 
 .eye-blink {
@@ -250,6 +249,8 @@ body {
 .dot-eye {
   width: 12px;
   height: 12px;
+  flex: 0 0 12px;
+  aspect-ratio: 1 / 1;
   border-radius: 999px;
   background: var(--dark);
 }
